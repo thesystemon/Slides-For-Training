@@ -1,0 +1,69 @@
+## **PART 1: EXECUTIVE & LEADERSHIP SECURITY (10 Slides)**
+
+**Slide 1: Leadership Sets the Cyber Tone**
+* Cybersecurity starts at the top - culture follows leadership
+* Executives are prime targets due to access, authority, and influence
+* Real example: €220K BEC scam via deepfake voice (2023)
+
+**Slide 2: Why Leaders Are Targeted**
+| Attack Type | Real Example |
+|-------------|-------------|
+| Business Email Compromise | "Wire $100K to vendor immediately!" |
+| Whaling | Fake invoice or acquisition document |
+| Deepfake & AI Voice Fraud | Fake CEO call ordering fund transfer |
+| Data Theft via Assistants | Compromise via shared inbox or USB |
+
+**Slide 3: The Business Impact of a Breach**
+* Financial: Direct fraud losses, regulatory fines
+* Reputational: Brand trust damage → stock impact
+* Operational: Downtime → delayed projects
+* Legal/Compliance: GDPR/DPDP penalties
+* Strategic: Competitors gaining insider intel
+
+**Slide 4: Security by Design: Decision-Level Responsibility**
+* Vendor Procurement → Third-party data leaks
+* Product Launch → Weak API security  
+* M&A / Due Diligence → Compromised acquired firm
+* Remote Work Policy → Data sprawl
+
+**Slide 5: Leadership Cybersecurity Checklist**
+- [ ] Review and approve Information Security Policy
+- [ ] Nominate CISO/DPO with budget allocation
+- [ ] Attend quarterly security briefings
+- [ ] Ensure vendor risk assessments are conducted
+- [ ] Verify MFA for all executive accounts
+
+**Slide 6: Governance & Leadership Accountability**
+* **ISO 27001:** Approve ISMS policy, allocate resources
+* **NIST CSF:** Oversee Identify-Protect-Detect-Respond-Recover
+* **DPDP/GDPR:** Ensure lawful data handling
+* **CMMI/SOC 2:** Demonstrate control maturity
+
+**Slide 7: The Human Element: Leadership Culture**
+* Model secure behavior (MFA, secure email use)
+* Encourage no-blame reporting for incidents
+* Budget for ongoing security training
+* Embed cyber KPIs in performance reviews
+* Case Study: 68% phishing reduction after CEO-led campaign
+
+**Slide 8: Crisis & Incident Response**
+* Whom to call (CISO/DPO/Legal)
+* What to say (internal + external comms)
+* How to authorize containment
+* When to escalate to regulatory authorities
+* Activity: 5-minute ransomware tabletop exercise
+
+**Slide 9: Compliance & Reputation**
+| Regulation | Executive Obligation | Fine |
+|------------|---------------------|------|
+| DPDP Act | Appoint DPO, ensure consent | ₹250 Cr |
+| GDPR | Privacy documentation, breach reporting | 4% turnover |
+| ISO 27001 | Approve security objectives | Certification loss |
+
+**Slide 10: Leadership Security Commitment**
+* "Security is not delegation — it's ownership"
+* Cyber risk = Business risk
+* Breaches are inevitable — unpreparedness is optional
+* Security is not cost — it's continuity insurance
+
+---
